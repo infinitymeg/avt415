@@ -1,0 +1,20 @@
+body {
+  background-color: #867595;
+}
+
+h1 {
+  font-family: 'Signpainter', sans-serif;
+  font-size: 80px;
+  color: #503767;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  color: #75A9B9;
+  font-weight: 400;
+}
+
+h3 {
+  font-family: 'Georgia', sans-serif;
+}
